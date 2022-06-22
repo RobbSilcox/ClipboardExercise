@@ -1,0 +1,15 @@
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\bin\Debug\net6.0\ClipboardConsoleClient.exe
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\bin\Debug\net6.0\ClipboardConsoleClient.deps.json
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\bin\Debug\net6.0\ClipboardConsoleClient.runtimeconfig.json
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\bin\Debug\net6.0\ClipboardConsoleClient.dll
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\bin\Debug\net6.0\ClipboardConsoleClient.pdb
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.csproj.AssemblyReference.cache
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.AssemblyInfoInputs.cache
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.AssemblyInfo.cs
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.dll
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\refint\ClipboardConsoleClient.dll
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.pdb
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ClipboardConsoleClient.genruntimeconfig.cache
+C:\Users\Legion-PC\Source\Repos\ClipboardExercise\ClipboardConsoleClient\obj\Debug\net6.0\ref\ClipboardConsoleClient.dll
